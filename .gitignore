@@ -1,0 +1,11 @@
+*.pyc
+*/*.pyc
+.idea/
+.idea/**/*
+resources/*
+norms/*
+media/*
+.python-version
+local_settings.py
+my_project.dot
+media
