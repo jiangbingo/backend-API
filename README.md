@@ -8,12 +8,10 @@
 # Installation
 
 #### Git
-git地址: http://192.168.3.112:10080/gaodi/gezbackend
-使用:
+git使用:
 1. Fork到自己帐号下
 2. 从自己帐号下的项目中clone项目到本地开发
-3. 提交时先提交到自己的项目中，再通过merge request提交到gaodi/gezbackend
-
+3. 提交时先提交到自己的项目中，再通过merge提交到develop
 #### ubuntu系统中python 常用支持库
 >sudo apt-get install -y --no-install-recommends  autoconf  automake python-pip python-dev bzip2 file g++  gcc  imagemagick  libbz2-dev  libc6-dev  libcurl4-openssl-dev  libevent-dev  libffi-dev  libgeoip-dev  libglib2.0-dev  libjpeg-dev  liblzma-dev  libmagickcore-dev  libmagickwand-dev  libmysqlclient-dev  libncurses-dev  libpng-dev  libpq-dev  libreadline-dev  libsqlite3-dev  libssl-dev  libtool  libwebp-dev  libxml2-dev  libxslt-dev  libyaml-dev  make  patch  xz-utils  zlib1g-dev
 
